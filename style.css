@@ -1,3 +1,27 @@
 body{
+    margin: 0px;
     background: #abcd;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    color: black;
+    font-size: xx-large;
+}
+div{
+    color: cornflowerblue;
+    font-size: 15px;
+    padding: 15px;
+}
+header{
+    display: flex;
+    align-items: center;
+    border-bottom:solid;
+    border-bottom-color: white;
+    display: flex;
+    justify-content: space-between;
+}
+svg{
+   margin-left: auto;
+   padding: 5px;
+
 }
